@@ -3,6 +3,4 @@ services:
     name: vscode-server
     env: docker
     plan: free
-    buildCommand: |
-      echo "Build step skipped. code-server will install at runtime if missing."
-    startCommand: bash start.sh
+    
