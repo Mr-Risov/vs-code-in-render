@@ -31,14 +31,12 @@ Click the button below to instantly deploy this repo to Render:
 5. Select **Build Command**:
    ```bash
    chmod +x start.sh
-
-
 ---
 
 6. Select **Start Command**:
    ```bash
    ./start.sh
-
+   
 7. Add required environment variables (see below).
 8. Deploy! 🎉
 
